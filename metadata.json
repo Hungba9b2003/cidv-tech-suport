@@ -1,8 +1,0 @@
-{
-  "name": "MachineGuide - Nền tảng Video Hướng dẫn Máy móc",
-  "description": "Ứng dụng chia sẻ video hướng dẫn kỹ thuật và căn chỉnh máy móc cho khách hàng sau khi mua hàng.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "firebase"
-  ]
-}
